@@ -11,6 +11,7 @@ Destaques:
 - Plano de Ação foi sugerido após a análise.
   
 Link completo do artigo: Artigo
+Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
 
 # English
 
@@ -25,3 +26,4 @@ Highlights:
 - Action Plan was suggested after the analysis.
 
 Full article link: Article
+Power BI Link: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
