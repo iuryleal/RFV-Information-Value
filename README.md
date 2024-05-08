@@ -1,6 +1,6 @@
 # Português 
 
-## Análise RFV associada com Information Value (Cliente campeão)
+## Análise RFV associada ao Information Value (Cliente campeão)
 
 Destaques:
 
