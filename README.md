@@ -11,6 +11,7 @@ Destaques:
 - Plano de Ação foi sugerido após a análise.
   
 Link completo do artigo: [Artigo](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
+
 Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
 
 # English
@@ -26,4 +27,5 @@ Highlights:
 - Action Plan was suggested after the analysis.
 
 Full article link: [Article](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
+
 Power BI Link: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
